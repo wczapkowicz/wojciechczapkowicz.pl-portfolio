@@ -10,3 +10,13 @@ body {
 }
 
 /* Navbar */
+
+/* Heading */
+
+.heading-wrapper {
+    min-height: 60vh;
+}
+
+.heading-content {
+    text-align: center;
+}
