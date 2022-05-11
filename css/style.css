@@ -11,6 +11,19 @@ body {
 
 h1 {
     font-size: 3.5rem;
+    font-weight: 900;
+}
+
+.background-text {
+    position: absolute;
+    text-transform: uppercase;
+    color: rgb(246, 246, 246);
+    z-index: -1;
+    font-weight: 900;
+    font-size: 5rem;
+
+    top: -5vh;
+    left: -5vw;
 }
 
 /* Navbar */
@@ -37,6 +50,8 @@ h1 {
     text-align: center;
 }
 
-.heading-title {
-    font-weight: 900;
+/* About */
+
+.about-content {
+    position: relative;
 }
