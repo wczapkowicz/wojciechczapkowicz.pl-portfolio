@@ -60,12 +60,12 @@ h1 {
 }
 
 .image-wrapper {
-    filter: drop-shadow(-1px 10px 15px rgba(0,0,0,0.5));
+    filter: drop-shadow(-1px 10px 15px rgba(0, 0, 0, 0.5));
 }
 
 .about-image {
     -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
     clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
     width: 25rem;
-    
+
 }
