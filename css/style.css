@@ -9,14 +9,34 @@ body {
     padding: 3% 10%;
 }
 
+h1 {
+    font-size: 3.5rem;
+}
+
 /* Navbar */
 
 /* Heading */
 
+#heading {
+    background: url(../assets/img/heading-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    /* -webkit-clip-path: inset(0px round 0px 0px 50px 50px);
+    clip-path: inset(0px round 0px 0px 50px 50px); */
+
+    color: white;
+}
+
 .heading-wrapper {
-    min-height: 60vh;
+    min-height: 70vh;
 }
 
 .heading-content {
     text-align: center;
+}
+
+.heading-title {
+    font-weight: 900;
 }
