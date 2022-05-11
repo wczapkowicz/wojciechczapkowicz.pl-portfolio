@@ -1,5 +1,12 @@
+/* Global CSS style */
 body {
     margin: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+
+.container-fluid {
+    padding: 3% 10%;
+}
+
+/* Navbar */
